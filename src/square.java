@@ -1,5 +1,4 @@
 public class square {
-    int i;
 
     int kwadrat(int i){
         return i * i;
